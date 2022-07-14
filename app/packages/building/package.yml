@@ -1,5 +1,5 @@
 enforce_dependencies: true
-enforce_privacy: true
+enforce_privacy: false
 dependencies:
   - app/packages/furniture
   - app/packages/vehicle
